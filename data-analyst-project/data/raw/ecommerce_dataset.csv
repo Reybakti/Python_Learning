@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,StockQuantity,Sales
+1,Headphones,Electronics,400.31,20,466
+2,Headphones,Electronics,235.03,663,1332
+3,Smartwatch,Electronics,417.9,459,252
+4,Smartphone,Electronics,152.7,475,1806
+5,Laptop,Electronics,394.74,831,1508
+6,Headphones,Electronics,93.56,600,241
+7,Laptop,Electronics,57.86,427,1966
+8,Laptop,Electronics,201.62,389,1795
+9,Smartphone,Electronics,485.1,201,269
+10,Smartwatch,Electronics,170.0,701,719
+11,Laptop,Electronics,274.45,187,1064
+12,Headphones,Electronics,90.98,343,647
+13,Headphones,Electronics,107.43,288,1513
+14,Laptop,Electronics,66.78,929,502
+15,Smartwatch,Electronics,336.3,986,1762
+16,Headphones,Electronics,359.49,766,794
+17,Headphones,Electronics,64.34,742,1020
+18,Smartwatch,Electronics,454.71,170,524
+19,Headphones,Electronics,151.98,681,1976
+20,Smartwatch,Electronics,403.8,330,1371
+21,Laptop,Electronics,63.93,632,1768
+22,Headphones,Electronics,90.68,676,1257
+23,Smartwatch,Electronics,472.03,232,1853
+24,Smartwatch,Electronics,133.37,624,698
+25,Laptop,Electronics,256.31,637,1707
+26,Smartwatch,Electronics,280.92,202,400
+27,Laptop,Electronics,190.21,981,751
+28,Smartphone,Electronics,83.85,348,763
+29,Headphones,Electronics,406.66,819,1959
+30,Headphones,Electronics,469.0,297,1787
+31,Laptop,Electronics,491.26,1,253
+32,Smartphone,Electronics,451.2,232,815
+33,Headphones,Electronics,429.6,919,1648
+34,Smartwatch,Electronics,294.54,152,1919
+35,Laptop,Electronics,349.03,160,397
+36,Smartwatch,Electronics,375.78,400,687
+37,Laptop,Electronics,299.04,437,26
+38,Smartphone,Electronics,256.29,480,1852
+39,Headphones,Electronics,290.28,171,476
+40,Smartphone,Electronics,442.91,279,301
+41,Jacket,Clothing,482.17,252,1184
+42,Jacket,Clothing,93.05,322,1815
+43,Sweater,Clothing,338.86,489,784
+44,T-Shirt,Clothing,76.94,537,920
+45,Sweater,Clothing,260.56,19,511
+46,Sweater,Clothing,444.44,799,853
+47,T-Shirt,Clothing,85.97,681,1077
+48,T-Shirt,Clothing,415.66,102,876
+49,Jacket,Clothing,352.76,369,1693
+50,T-Shirt,Clothing,205.42,740,1853
+51,Jacket,Clothing,351.03,633,801
+52,Jeans,Clothing,56.0,271,703
+53,Jeans,Clothing,367.72,655,1109
+54,T-Shirt,Clothing,66.88,749,452
+55,Sweater,Clothing,57.94,611,1757
+56,Jacket,Clothing,33.55,179,761
+57,Jeans,Clothing,255.51,15,1782
+58,T-Shirt,Clothing,434.93,663,1698
+59,T-Shirt,Clothing,407.49,42,396
+60,Jacket,Clothing,194.86,34,89
+61,T-Shirt,Clothing,423.99,114,1219
+62,T-Shirt,Clothing,180.68,276,675
+63,T-Shirt,Clothing,288.57,547,95
+64,Jacket,Clothing,466.07,694,216
+65,T-Shirt,Clothing,195.09,879,396
+66,Jacket,Clothing,200.71,264,717
+67,Sweater,Clothing,246.44,884,395
+68,Sweater,Clothing,339.53,143,108
+69,Jeans,Clothing,487.38,132,732
+70,Jacket,Clothing,67.36,491,1253
+71,Jeans,Clothing,353.47,794,1540
+72,T-Shirt,Clothing,124.28,832,1680
+73,T-Shirt,Clothing,300.03,786,1205
+74,Jacket,Clothing,131.87,172,1243
+75,Jeans,Clothing,373.08,360,386
+76,Jeans,Clothing,206.11,928,133
+77,Sweater,Clothing,489.17,148,1236
+78,Sweater,Clothing,46.16,401,1328
+79,Jacket,Clothing,232.73,655,970
+80,Jeans,Clothing,475.7,407,1031
+81,Coffee Maker,Home & Kitchen,326.96,731,739
+82,Microwave,Home & Kitchen,352.1,731,908
+83,Microwave,Home & Kitchen,413.04,708,449
+84,Coffee Maker,Home & Kitchen,439.56,800,145
+85,Microwave,Home & Kitchen,83.7,216,794
+86,Blender,Home & Kitchen,41.12,384,822
+87,Coffee Maker,Home & Kitchen,408.32,22,676
+88,Toaster,Home & Kitchen,195.15,50,1795
+89,Toaster,Home & Kitchen,185.5,673,770
+90,Coffee Maker,Home & Kitchen,410.03,733,400
+91,Microwave,Home & Kitchen,24.1,577,102
+92,Coffee Maker,Home & Kitchen,490.43,858,1331
+93,Toaster,Home & Kitchen,230.95,758,80
+94,Blender,Home & Kitchen,82.07,507,68
+95,Toaster,Home & Kitchen,251.38,42,1906
+96,Blender,Home & Kitchen,235.46,911,359
+97,Blender,Home & Kitchen,449.43,671,633
+98,Microwave,Home & Kitchen,412.68,828,837
+99,Blender,Home & Kitchen,235.78,944,1836
+100,Toaster,Home & Kitchen,401.71,55,830
